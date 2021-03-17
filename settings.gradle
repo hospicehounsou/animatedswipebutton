@@ -1,0 +1,3 @@
+include ':animatedswipebutton'
+include ':app'
+rootProject.name = "Animated Swipe Button"
